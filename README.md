@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/oss-labs/developer-roadmap">
-    <img width="100%" src="/images/developer-roadmap.png">
+    <img width="100%" src="/roadmap/developer-roadmap.png">
   </a>
 </p>
 
