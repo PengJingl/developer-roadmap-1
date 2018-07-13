@@ -12,11 +12,11 @@
 
 除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，如有任何不同意见和反馈，请提交 [Issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论，我们会及时跟进或组织讨论，并持续更新内容版本。
 
-## 🎨 开发路线
+## 📌 开发路线
 
 | 技术领域 | 核心贡献者 | 学习资源 | 技能图谱 |
 |--|--|:-:|:-:|
-| **Web 前端** | - | - | [查看]() |
+| **Web 前端** | - | - | [查看](/web/README.md) |
 | Vue.js | - | [访问](https://github.com/vuejs/awesome-vue) | [查看]() |
 | ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看]() |
 | Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | [查看]() |
@@ -36,7 +36,7 @@
 | Android UI | - | [访问](https://github.com/wasabeef/awesome-android-ui) | [查看]() |
 | Motion UI | - | [访问](https://github.com/fliptheweb/motion-ui-design) | [查看]() |
 
-## 👷 正在建设
+## 🚧 正在建设
 
 - 人工智能
     - 机器学习
@@ -62,7 +62,7 @@
 
 欢迎贡献新领域技能图谱，或推荐学习路径与资源，有任何改进意见和建议，也可以建立 [issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论。
 
-## 🚀 改进目标
+## 🤖 改进目标
 
 1. 持续细化各领域的技能节点
 2. 提供各领域的参考学习路径
@@ -74,7 +74,7 @@
 
 更新完成后，你需要生成新的源文件和图谱，并提交一个 PR 发起合并请求。
 
-## 🚦 特别鸣谢
+## 🙇‍ 特别鸣谢
 
 「程序员技能图谱 - 2018」开源项目由社区成员参与共建，在此特别鸣谢以下成员的贡献（排名不分先后）：
 
