@@ -1,6 +1,20 @@
-## 🚀 准备开始
+<p align="center">
+  <a href="https://github.com/oss-labs/developer-roadmap">
+    <img width="100%" src="/roadmap/developer-roadmap.png">
+  </a>
+</p>
 
-![Introduction](project-files/intro-map.png)
+<h2 align="center">
+    如何成为一名优秀的程序员？
+</h2>
+
+「程序员技能图谱 - 2018」是由 [开源软件实验室](http://osslab.online) 发起的一个技术社区开源项目，旨在汇集、整理、共建泛 IT 技术领域（人工智能、前端开发、移动开发、云计算、大数据、架构、运维、安全、后端开发、测试、智能硬件等）及互联网产品、运营等领域学习技能图谱，帮助程序员梳理知识框架结构，并尝试提供路径指导和精华资源，方便开发人员学习成长。
+
+除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，如有任何不同意见和反馈，请提交 [Issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论，我们会及时跟进或组织讨论，并持续更新内容版本。
+
+## 🚀 基础技能
+
+![Introduction](/roadmap/web/intro-map.png)
 
 ## 🎨 前端开发
 
