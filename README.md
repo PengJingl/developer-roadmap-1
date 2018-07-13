@@ -16,7 +16,7 @@
 
 | 技术领域 | 核心贡献者 | 学习资源 | 技能图谱 |
 |--|--|:-:|:-:|
-| **Web 前端** | - | - | [查看](/web/README.md) |
+| **Web 前端** | - | - | [查看](/project/web/README.md) |
 | Vue.js | - | [访问](https://github.com/vuejs/awesome-vue) | [查看]() |
 | ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看]() |
 | Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | [查看]() |
