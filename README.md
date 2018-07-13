@@ -1,4 +1,10 @@
-## Web 开发路线图
+<p align="center">
+  <a href="https://github.com/oss-labs/web-developer-roadmap">
+    <img width="100%" src="/images/web-developer-roadmap.png">
+  </a>
+</p>
+
+## 前端技能图谱
 
 2018 年，如何成为一名优秀的开发者？
 
