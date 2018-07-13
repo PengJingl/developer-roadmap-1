@@ -12,21 +12,47 @@
 
 除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，如有任何不同意见和反馈，请提交 [Issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论，我们会及时跟进或组织讨论，并持续更新内容版本。
 
-## 🎨 图谱路线
+## 🎨 技术图谱
 
+- Web 开发
+    - Vue.js
+    - ReactJS
+    - Angular
+    - Node.js
+
+- 移动开发
+    - iOS
+    - Android
+    - React Native
+    - Mini Program
+    - Weex
+    - Ionic
+
+- UI/UX
 
 ## 👷 正在建设
 
-- 移动端开发
-- 小程序开发
+- 人工智能
+    - 机器学习
+    - 深度学习
+    - 图像识别
+    - 数据分析
+    - 自动驾驶
+    - 自然语言处理
 - 服务端开发
+- 云计算&大数据
 - 分布式数据库开发
 - IoT 物联网
-- PHP 语言
-- Swift 语言
-- Objective-C 语言
-- C++ 语言
-- C# 语言
+- 编程语言
+    - Golang
+    - Python
+    - Ruby
+    - PHP
+    - Swift
+    - Object-C
+    - Java
+    - C++
+    - C#
 
 欢迎贡献新领域技能图谱，或推荐学习路径与资源，有任何改进意见和建议，也可以建立 [issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论。
 
