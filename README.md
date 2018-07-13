@@ -12,23 +12,29 @@
 
 除非特别声明，本开源项目所有领域技能图谱内容均只代表所参与贡献的技术人员个人立场，与其公司背景无关。本项目出发点旨在抛砖引玉，如有任何不同意见和反馈，请提交 [Issue](https://github.com/oss-labs/developer-roadmap/issues) 讨论，我们会及时跟进或组织讨论，并持续更新内容版本。
 
-## 🎨 技术图谱
+## 🎨 开发路线
 
-- Web 开发
-    - Vue.js
-    - ReactJS
-    - Angular
-    - Node.js
-
-- 移动开发
-    - iOS
-    - Android
-    - React Native
-    - Mini Program
-    - Weex
-    - Ionic
-
-- UI/UX
+| 技术领域 | 核心贡献者 | 学习资源 | 技能图谱 |
+|--|--|:-:|:-:|
+| **Web 前端** | - | - | [查看]() |
+| Vue.js | - | [访问](https://github.com/vuejs/awesome-vue) | [查看]() |
+| ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看]() |
+| Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | [查看]() |
+| Node.js | - | [访问](https://github.com/sindresorhus/awesome-nodejs) | [查看]() |
+|--|--|--|--|
+| **移动开发** | - | - | [查看]() |
+| iOS | - | [访问](https://github.com/vsouza/awesome-ios) | [查看]() |
+| Android | - | [访问](https://github.com/JStumpp/awesome-android) | [查看]() |
+| React Native | - | [访问](https://github.com/jondot/awesome-react-native) | [查看]() |
+| Mini Program | - | [访问](https://github.com/justjavac/awesome-wechat-weapp) | [查看]() |
+| Weex | - | [访问](https://github.com/joggerplus/awesome-weex) | [查看]() |
+| Ionic | - | [访问](https://github.com/candelibas/awesome-ionic) | [查看]() |
+|--|--|--|--|
+| **UI/UX** | - | - | [查看]() |
+| Web Design | - | [访问](https://github.com/nicolesaidy/awesome-web-design) | [查看]() |
+| iOS UI | - | [访问](https://github.com/cjwirth/awesome-ios-ui) | [查看]() |
+| Android UI | - | [访问](https://github.com/wasabeef/awesome-android-ui) | [查看]() |
+| Motion UI | - | [访问](https://github.com/fliptheweb/motion-ui-design) | [查看]() |
 
 ## 👷 正在建设
 
