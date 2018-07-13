@@ -85,3 +85,22 @@
 ## 🏴󠁭󠁣󠁳󠁯󠁿 许可协议
 
 本技能图谱遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/) 许可协议。
+
+
+<style>
+  table tr:first-child {
+    width: 20%;
+  }
+
+  table tr:nth-child(2) {
+    width: 70%;
+  }
+
+  table tr:nth-child(3) {
+    width: 10%;
+  }
+
+  table tr:last-child {
+    width: 110%;
+  }
+</style>
