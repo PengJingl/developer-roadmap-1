@@ -78,7 +78,6 @@
 
 「程序员技能图谱 - 2018」开源项目由社区成员参与共建，在此特别鸣谢以下成员的贡献（排名不分先后）：
 
-- [vultur](https://github.com/vultur)
 - [adam-golab](https://github.com/adam-golab)
 - [kamranahmedse](https://github.com/kamranahmedse)
 
