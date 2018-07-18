@@ -17,24 +17,24 @@
 | 技术领域 | 核心贡献者 | 学习资源 | 技能图谱 |
 |--|--|:-:|:-:|
 | **Web 前端** | - | - | [查看](/project/web) |
-| Vue.js | - | [访问](https://github.com/vuejs/awesome-vue) | [查看]() |
-| ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看]() |
-| Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | [查看]() |
-| Node.js | - | [访问](https://github.com/sindresorhus/awesome-nodejs) | [查看]() |
+| Vue.js | - | [访问](https://github.com/vuejs/awesome-vue) | [查看](/project/vue.js) |
+| ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看](/project/reactjs) |
+| Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | 正在整理 |
+| Node.js | - | [访问](https://github.com/sindresorhus/awesome-nodejs) | 正在整理 |
 |--------------------|-----------------------------------------------------------------------|---------------|---------------|
 | **移动开发** | - | - | [查看]() |
-| iOS | - | [访问](https://github.com/vsouza/awesome-ios) | [查看]() |
-| Android | - | [访问](https://github.com/JStumpp/awesome-android) | [查看]() |
-| React Native | - | [访问](https://github.com/jondot/awesome-react-native) | [查看]() |
-| Mini Program | - | [访问](https://github.com/justjavac/awesome-wechat-weapp) | [查看]() |
-| Weex | - | [访问](https://github.com/joggerplus/awesome-weex) | [查看]() |
-| Ionic | - | [访问](https://github.com/candelibas/awesome-ionic) | [查看]() |
+| iOS | - | [访问](https://github.com/vsouza/awesome-ios) | 正在整理 |
+| Android | - | [访问](https://github.com/JStumpp/awesome-android) | 正在整理 |
+| React Native | - | [访问](https://github.com/jondot/awesome-react-native) | 正在整理 |
+| Mini Program | - | [访问](https://github.com/justjavac/awesome-wechat-weapp) | [查看](/project/mini-program) |
+| Weex | - | [访问](https://github.com/joggerplus/awesome-weex) | 正在整理 |
+| Ionic | - | [访问](https://github.com/candelibas/awesome-ionic) | 正在整理 |
 |--------------------|-----------------------------------------------------------------------|---------------|---------------|
-| **UI/UX** | - | [访问](https://github.com/gztchan/awesome-design) | [查看]() |
-| Web Design | - | [访问](https://github.com/nicolesaidy/awesome-web-design) | [查看]() |
-| iOS UI | - | [访问](https://github.com/cjwirth/awesome-ios-ui) | [查看]() |
-| Android UI | - | [访问](https://github.com/wasabeef/awesome-android-ui) | [查看]() |
-| Motion UI | - | [访问](https://github.com/fliptheweb/motion-ui-design) | [查看]() |
+| **UI/UX** | - | - | 正在整理 |
+| Web Design | - | [访问](https://github.com/nicolesaidy/awesome-web-design) | 正在整理 |
+| iOS UI | - | [访问](https://github.com/cjwirth/awesome-ios-ui) | 正在整理 |
+| Android UI | - | [访问](https://github.com/wasabeef/awesome-android-ui) | 正在整理 |
+| Motion UI | - | [访问](https://github.com/fliptheweb/motion-ui-design) | 正在整理 |
 
 ## 🚧 正在建设
 
