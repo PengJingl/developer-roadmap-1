@@ -21,7 +21,7 @@
 | ReactJS | - | [访问](https://github.com/enaqx/awesome-react) | [查看](/project/reactjs) |
 | Angular | - | [访问](https://github.com/gdi2290/awesome-angular) | 正在整理 |
 | Node.js | - | [访问](https://github.com/sindresorhus/awesome-nodejs) | 正在整理 |
-|--------------------|-----------------------------------------------------------------------|---------------|---------------|
+|--------------------|---------------------------------------------------------|---------------|---------------|
 | **移动开发** | - | - | [查看]() |
 | iOS | - | [访问](https://github.com/vsouza/awesome-ios) | 正在整理 |
 | Android | - | [访问](https://github.com/JStumpp/awesome-android) | 正在整理 |
@@ -29,7 +29,7 @@
 | Mini Program | - | [访问](https://github.com/justjavac/awesome-wechat-weapp) | [查看](/project/mini-program) |
 | Weex | - | [访问](https://github.com/joggerplus/awesome-weex) | 正在整理 |
 | Ionic | - | [访问](https://github.com/candelibas/awesome-ionic) | 正在整理 |
-|--------------------|-----------------------------------------------------------------------|---------------|---------------|
+|--------------------|---------------------------------------------------------|---------------|---------------|
 | **UI/UX** | - | - | 正在整理 |
 | Web Design | - | [访问](https://github.com/nicolesaidy/awesome-web-design) | 正在整理 |
 | iOS UI | - | [访问](https://github.com/cjwirth/awesome-ios-ui) | 正在整理 |
